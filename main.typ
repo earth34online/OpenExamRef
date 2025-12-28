@@ -1,7 +1,7 @@
 #import "lib.typ":*
 #import "template.typ":default-template
 #let mainmatter={
-  addpdf("信息通信概论“,"assets/Ch1A-信息通信概论-2025-发布版.pdf","2-80")
+  addpdf("信息通信概论","assets/Ch1A-信息通信概论-2025-发布版.pdf","2-80")
   addpdf("无线通信","assets/Ch2A-无线通信-发布版-2025.pdf","2-77")
   addpdf("空间信息通信与通信网络","assets/Ch3A 空间信息通信与通信网络-发布版-2025.pdf","1-37")
   addpdf("光纤通信","assets/Ch4A 光纤通信-发布版-2025.pdf","1-60")
